@@ -1,1 +1,1 @@
-
+# Nessuna dipendenza (libreria) esterna necessaria per questo script
